@@ -45,7 +45,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^14.6.8",
-    "tinymce": "5.10.7",
+    "tinymce": "6.8.4",
     "@snyk/nodejs-runtime-agent": "^1.46.1",
     "snyk": "^1.1064.0"
     
